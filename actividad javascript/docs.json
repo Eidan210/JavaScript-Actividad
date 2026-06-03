@@ -1,0 +1,32 @@
+[
+    {
+        "idPersonaje": 1,
+        "nombre": "Spiderman",
+        "edad": 17,
+        "genero": "Masculino",
+        "afiliacion": "Vengadores",
+        "especialidad": "Lanzador de telarañas",
+        "imagen": "https://co.pinterest.com/pin/512917845091201209/",
+        "status": "Activo"
+    },
+    {
+        "idPersonaje": 2,
+        "nombre": "Ironman",
+        "edad": 40,
+        "genero": "Masculino",
+        "afiliacion": "Vengadores",
+        "especialidad": "Traje de hierro",
+        "imagen": "https://co.pinterest.com/pin/349873464809122383/",
+        "status": "Activo"
+    },
+    {
+        "idPersonaje": 3,
+        "nombre": "Hulk",
+        "edad": 30,
+        "genero": "Masculino",
+        "afiliacion": "Vengadores",
+        "especialidad": "Fuerza bruta",
+        "imagen": "https://i.imgur.com/7z6v1N3.jpg",
+        "status": "Activo"
+    }
+]
